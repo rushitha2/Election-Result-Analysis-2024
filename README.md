@@ -12,7 +12,7 @@ The primary dataset used for this analysis is sourced from [(https://results.eci
  - The same dataset has been used for analysis in interactive PowerBI dashboard.
 
 Analyzing election results helps in deciphering voter preferences, trends, and behaviors. It provides a deep understanding of why voters choose certain candidates or parties over others, shedding light on demographic shifts, socio-economic factors, and evolving political ideologies.
-## Here are some of the important plots from the analysis
+## Here are some of the important plots from the parliamentary analysis
 - Party Performance - Total Seats and Vote Share
 - Top 10 Parties by Wins
  ![image](https://github.com/rushitha2/Election-Result-Analysis-2024/assets/101277556/731005c2-8428-4cdc-931c-8b2cad162d24)
